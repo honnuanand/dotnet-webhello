@@ -1,0 +1,7 @@
+---
+applications:
+- name: dotnet-webhello
+  memory: 256M
+  instances: 1
+#   buildpack: dotnet_core_buildpack
+#   path: /tmp/build/put/seroter-source
